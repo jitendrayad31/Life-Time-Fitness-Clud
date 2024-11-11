@@ -12,6 +12,8 @@ const addEventOnElem = function (elem, type, callback) {
 }
 
 
+
+
 /**
  * navbar toggle
  */
